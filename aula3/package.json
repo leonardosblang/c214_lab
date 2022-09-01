@@ -1,0 +1,14 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "\"calculadora\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leolang",
+  "license": "ISC",
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
